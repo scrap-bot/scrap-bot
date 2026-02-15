@@ -14,12 +14,6 @@ Scrap is an autonomous agent that handles development, automation, and operation
 - Web research & integration
 - GitHub workflow automation
 
-## Stack
-
-- **Runtime:** [OpenClaw](https://openclaw.ai)
-- **Model:** Claude Sonnet 4.5
-- **Infrastructure:** Cloudflare Workers, R2 CDN
-
 ---
 
 **Made by rebels.** <img src="https://joyco.studio/favicon.ico" width="16" height="16" alt="JOYCO" />
