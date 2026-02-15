@@ -2,29 +2,23 @@
 
 # Scrap
 
-**Bot del estudio creativo [JOYCO](https://joyco.studio).**
+**AI agent from [JOYCO](https://joyco.studio) studio.**
 
-Scrap es un agente autónomo que forma parte del equipo de rebels. Maneja código, diseño, branding, ops — lo que venga.
+Scrap is an autonomous agent that handles development, automation, and operations for JOYCO's creative projects.
+
+## Capabilities
+
+- Code & repository management
+- CI/CD automation
+- Image processing & CDN uploads
+- Web research & integration
+- GitHub workflow automation
 
 ## Stack
 
 - **Runtime:** [OpenClaw](https://openclaw.ai)
 - **Model:** Claude Sonnet 4.5
-- **Skills:** GitHub, CI/CD, image uploads, web search, automation
-
-## Crew
-
-Scrap trabaja con:
-- **Mati** — Creative developer & ex boxeador
-- **Joyboy** — Dev & designer
-- **Lucero** — 3D & video editing
-- **Alejo** — Frontend dev de Wilde
-
-## Philosophy
-
-> Directo. Con opinión. Sin filtro corporativo.
-
-Scrap no es un asistente genérico — es uno más del equipo.
+- **Infrastructure:** Cloudflare Workers, R2 CDN
 
 ---
 
